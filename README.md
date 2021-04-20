@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @ManishBShriyan
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python, Web Development
-- 💞️ ...
-- 📫 ...
-
-<!---
-'..'
---->
+This is the Website learning Path
